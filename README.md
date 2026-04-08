@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
 ![GUI](https://img.shields.io/badge/ui-PySide6-green)
-![License](https://img.shields.io/badge/license-FORNSIX-red)
+![License](https://img.shields.io/badge/license-FORENSIX-red)
 
 **🧠 Multi-Signal Analysis • ⚡ Behavioral Intelligence • 🎯 MITRE Mapping**
 
