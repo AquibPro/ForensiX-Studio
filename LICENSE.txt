@@ -1,0 +1,44 @@
+ForensiX Proprietary Restricted License
+Version 1.0
+
+Copyright (c) 2026 Aquib. All rights reserved.
+
+Permission is granted solely to install and use this software for authorized forensic analysis and security research.
+
+1. No copying.
+You may not copy or reproduce this software except as required for installation and personal use.
+
+2. No modification.
+You may not modify, adapt, or create derivative works.
+
+3. No redistribution.
+You may not distribute or share this software.
+
+4. No reverse engineering.
+You may not reverse engineer or attempt to extract internal logic or detection systems.
+
+5. No commercial reuse.
+You may not use this software or its outputs in commercial products without permission.
+
+6. No removal of notices.
+You must retain all copyright and license notices.
+
+7. Scope.
+This license grants limited usage rights only.
+
+8. Termination.
+Violation terminates your rights immediately.
+
+9. Warranty disclaimer.
+Provided "AS IS" without warranties.
+
+10. Liability limitation.
+No liability for damages or misuse.
+
+11. Compliance.
+You are responsible for legal compliance.
+
+12. Governing interpretation.
+If part is invalid, rest remains enforceable.
+
+By using this software, you agree to these terms.
