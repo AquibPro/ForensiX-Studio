@@ -132,8 +132,8 @@ Generates structured HTML reports including:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/forensix-studio
-cd forensix-studio
+git clone https://github.com/AquibPro/ForensiX-Studio.git
+cd ForensiX-Studio
 pip install -r requirements.txt
 python main.py
 ```
@@ -144,8 +144,8 @@ ForensiX Studio can be used in two ways:
 
 ## 🧑‍💻 Method 1: Developer Mode
 ```bash
-git clone https://github.com/yourusername/forensix-studio
-cd forensix-studio
+git clone https://github.com/AquibPro/ForensiX-Studio.git
+cd ForensiX-Studio
 pip install -r requirements.txt
 python main.py
 ```
@@ -154,29 +154,12 @@ python main.py
 
 No setup required.
 
-1. Go to **GitHub → Releases**
+1. Go to **dist** folder
 2. Download: ForensiX_Studio.exe
 3. Run directly
 
 ✔ No Python required
 ✔ No setup needed
-
----
-
-## 📁 Project Structure
-
-```
-ForensiX/
-├── main.py
-├── requirements.txt
-├── README.md
-├── LICENSE.txt
-├── DISCLAIMER.md
-├── forensics.ico
-├── icons/
-└── dist/
-    └── ForensiX_Studio.exe
-```
 
 ---
 
@@ -222,11 +205,9 @@ The most important tab provides:
 
 ## 📦 Releases
 
-Production builds available in **GitHub Releases**:
+Production builds available in **dist** folder:
 
 - Windows .exe
-- Versioned builds
-- Stable snapshots
 
 ---
 
